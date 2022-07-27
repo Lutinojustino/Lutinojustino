@@ -2,9 +2,9 @@
 
 - 🌱   Estudando Desenvolvimento Full Stack 
 <div>
-  <a href="https://github.com/Lutinojustino">
+  <a href="https://github.com/Lutinojustino/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lutinojustino&show_icons=true&theme=omni&include_all_commits=tue&count_private=true"/>
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutinojustino&hide=javascript,html,css&theme=omni"
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact=5&theme=omni"
   
 </div>
 
